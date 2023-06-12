@@ -14,5 +14,6 @@ public class Clase2 {
 
         objeto1.setNombre("pepito");
         System.out.println("El nombre es: "+objeto1.getNombre());
+        //
     }
 }
